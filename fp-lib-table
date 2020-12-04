@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name JS202011SCQN)(type KiCad)(uri "${KIPRJMOD}/JS202011SCQN .pretty")(options "")(descr ""))
+  (lib (name BHX1-LR44-SM-Battery-Holder)(type KiCad)(uri ${KIPRJMOD}/BHX1-LR44-SM-Battery-Holder.pretty)(options "")(descr ""))
+)
